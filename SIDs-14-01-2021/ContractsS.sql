@@ -1,0 +1,1 @@
+﻿INSERT INTO [dbo].[Contracts] ([number], [dateOfDeal], [dateOfComplit], [contractor], [culture], [amount], [price]) VALUES (3342, N'2019-02-01', N'2019-02-28', N'Петров Н.В.', N'Кукуруза', 2000, CAST(300.0000 AS Money))
